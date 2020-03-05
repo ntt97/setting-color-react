@@ -36,3 +36,17 @@
     transform: rotate(360deg);
   }
 }
+
+.mt-50{
+  margin-top: 50px;
+}
+.boxColor{
+  width: 40px;
+  height: 40px;
+  margin-right: 20px;
+  float: left;
+  
+}
+.active{
+  border: 5px solid #000000;
+}
